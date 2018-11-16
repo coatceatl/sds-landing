@@ -3,3 +3,14 @@ body {
   margin: 0;
   font-family: 'Poppins', sans-serif;
 }
+.wrapper {
+  display: flex;
+}
+.btn {
+  border-radius: 28px;
+  background-color: #4cb480;
+  font-family: 'Poppins', sans-serif;
+  color: #fff;
+  border: none;
+  margin-top: 30px;
+}
