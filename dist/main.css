@@ -205,6 +205,7 @@ body {
   top: -55px; }
 
 .testimonial {
+  background: url(img/bg-testimonial.png) center center no-repeat;
   background-color: #353a3f;
   padding: 140px 0; }
 
